@@ -1,0 +1,4 @@
+#Sun Sep 22 18:33:57 EDT 2024
+base.0=C\:\\Users\\ly\\Desktop\\mobile\\cw\\cw1\\task2\\image_toggle\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
